@@ -1,0 +1,16 @@
+float32 ail
+float32 elev
+float32 rud
+float32 thr
+float32 F_b
+float32 M_x
+float32 M_y
+float32 M_z
+float32 kdc
+float32 kdv
+float32 ex
+float32 ey
+float32 ez
+float32 u
+float32 v
+float32 w

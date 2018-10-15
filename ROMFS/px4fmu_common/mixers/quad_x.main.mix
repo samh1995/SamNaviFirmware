@@ -1,0 +1,28 @@
+Multirotor mixer for PX4FMU
+===========================
+
+Send Direct Thrust Commands
+
+control the motor1 with control_group_0.channel_0
+
+M: 1
+O:      10000  10000      0 -10000  10000
+S: 0 0      0  20000 -10000 -10000  10000
+
+control the motor2 with control_group_0.channel_1
+
+M: 1
+O:      10000  10000      0 -10000  10000
+S: 0 1      0  20000 -10000 -10000  10000
+
+control the motor3 with control_group_0.channel_2
+
+M: 1
+O:      10000  10000      0 -10000  10000
+S: 0 2      0  20000 -10000 -10000  10000
+
+control the motor4 with control_group_0.channel_3
+
+M: 1
+O:      10000  10000      0 -10000  10000
+S: 0 3      0  20000 -10000 -10000  10000

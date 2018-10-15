@@ -1,0 +1,13 @@
+float32 kpp
+float32 kpd
+float32 kpi
+float32 kap
+float32 kad
+float32 kai
+float32 ku
+float32 khp
+float32 khd
+float32 khi
+uint8 manuever_type
+uint8 semi_auto
+float32 timestep
